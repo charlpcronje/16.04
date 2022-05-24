@@ -1,0 +1,4 @@
+4028792abd56cb4fce5d735ed88abed1 *ubuntu-16.04.6-desktop-amd64.metalink
+fc115fcd45feb1ed9f77cbba66f9d9e1 *ubuntu-16.04.6-desktop-i386.metalink
+8c2d7cf2a1540723619cc530e9f3d1a6 *ubuntu-16.04.6-server-amd64.metalink
+18bbf8986a0a789dd0f4da474143769e *ubuntu-16.04.6-server-i386.metalink

@@ -1,0 +1,2 @@
+ac8a79a86a905ebdc3ef3f5dd16b7360 *ubuntu-16.04.6-server-amd64.iso
+1817138b1a181507c5ebd5ec8a3f40ba *ubuntu-16.04.6-server-i386.iso

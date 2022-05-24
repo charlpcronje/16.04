@@ -1,8 +1,0 @@
-dae5d1dc31fedf7b2b2977d0f852bea9 *ubuntu-16.04.5-src-1.iso
-aa230aa373858a8a61f9ae3b711c3590 *ubuntu-16.04.5-src-2.iso
-3389d93cd823608b9ead4dab8d5c67b4 *ubuntu-16.04.5-src-3.iso
-ff21a5939d545bd2e89542bfcc6c97ee *ubuntu-16.04.5-src-4.iso
-1a71a7a9695a41b32d89218e4ca7cb1c *ubuntu-16.04.6-src-1.iso
-419c49015d9260e83a9b3a80113d35e0 *ubuntu-16.04.6-src-2.iso
-46608353fc2dbad7732a8a0192c89535 *ubuntu-16.04.6-src-3.iso
-0bd2a5261d355973309b2f489db43cd0 *ubuntu-16.04.6-src-4.iso
