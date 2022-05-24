@@ -1,6 +1,6 @@
 # Downloading and installing packages
 
-## 1 Cannot run apt source by default
+## 1. Cannot run apt source by default
 
 The apt source after installing Ubuntu 16.04 will be failed.
 
@@ -26,7 +26,7 @@ deb http://jp.archive.ubuntu.com/ubuntu/ xenial-updates main restricted
 # deb-src http://jp.archive.ubuntu.com/ubuntu/ xenial-updates main restricted
 ```
 
-## 2 Enable deb-src
+## 2. Enable deb-src
 
 Add deb-src URL to repository list.
 
@@ -41,7 +41,7 @@ Update repository database.
 sudo apt update -y
 ```
 
-## 3 Execution result
+## 3. Execution result
 
 Now the apt source is succeed
 
@@ -76,7 +76,7 @@ ls
 
 We can do this in two methods. I tested this guide on Ubuntu 16.04 and 18.04 LTS desktop editions. It worked just fine as described below.
 
-## Method 1:
+## Method 1
 
 This is the simplest and straight-forward method than other other methods given below.
 
